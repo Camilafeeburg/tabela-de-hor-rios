@@ -1,0 +1,37 @@
+table,td{
+    border: 1px solid black; 
+}
+table,th{
+    border: 1px solid black;
+    height: 10px;
+}
+#H1{
+    border: 1px solid black;
+}
+.Data{
+    border: 1px solid black;
+}
+Data1{
+    border: 1px solid black;
+}
+.Linguagens{
+    background-color: plum;
+}
+.CN{
+    background-color: rgb(119, 119, 238);
+}
+.Tecnico{
+background-color: rgb(41, 156, 41);
+}
+.PV{
+    background-color: rgb(39, 39, 121);
+}
+.Matematica{
+    background-color: rgb(177, 59, 59);
+}
+.CH{
+    background-color: rgb(196, 140, 35);
+}    
+.Intervalo{
+    background-color: gray;
+}
